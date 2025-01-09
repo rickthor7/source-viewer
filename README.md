@@ -21,7 +21,7 @@ ModernSourceViewer/ ├── index.html   # File utama HTML ├── styles.cs
 ## 🚀 Cara Menggunakan  
 1. Clone repository ini atau unduh file-nya.  
    ```bash
-   git clone https://github.com/username/ModernSourceViewer.git
+   git clone https://github.com/rickthor7/source-viewer.git
 
 2. Buka file index.html di browser favoritmu.
 
